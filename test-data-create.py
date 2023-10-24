@@ -7,10 +7,10 @@ import random
 def random_number():
     n = random.randint(0, 1)
     if (n == 1):
-        num = random.randint(0, 10)
+        num = random.randint(0, 10000)
         return str(num)
     else:
-        num = random.uniform(0, 10)
+        num = random.uniform(0, 10000)
         return format(num, '.1f')
 
 
