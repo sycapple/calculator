@@ -1,0 +1,886 @@
+Calculation 2.5 + 3.7 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'square'          is executed True
+The code block 'multiply_divide' is executed True
+The code block 'and_minus'       is executed True
+This calculation 2.4.200000 has been completed successfully
+An error has occurred, on line 220,error type is invalid syntax (<string>, line 1)
+Calculation 4.2 - 1.8 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'square'          is executed True
+The code block 'multiply_divide' is executed True
+An error has occurred, on line 63,error type is invalid syntax (<string>, line 1)
+An error has occurred, on line 79,error type is invalid syntax (<string>, line 1)
+Calculation 0.9 * 5.4 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+The code block 'and_minus'       is executed True
+This calculation 4.860000 has been completed successfully
+Calculation 6.7 / 2.3 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+The code block 'and_minus'       is executed True
+This calculation 2.913043 has been completed successfully
+Calculation 1.5^2 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'multiply_divide' is executed True
+The code block 'and_minus'       is executed True
+This calculation 2.250000 has been completed successfully
+Calculation 2.8 + 0.6 - 1.2 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'square'          is executed True
+The code block 'multiply_divide' is executed True
+An error has occurred, on line 63,error type is invalid syntax (<string>, line 1)
+An error has occurred, on line 79,error type is invalid syntax (<string>, line 1)
+Calculation 3.1 * 2.5 - 1.7 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+An error has occurred, on line 63,error type is invalid syntax (<string>, line 1)
+An error has occurred, on line 79,error type is invalid syntax (<string>, line 1)
+Calculation 5.9 / 1.3 + 2.1 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+The code block 'and_minus'       is executed True
+This calculation 4.2.638462 has been completed successfully
+An error has occurred, on line 220,error type is invalid syntax (<string>, line 1)
+Calculation 4.6^3 - 2.3^2 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'multiply_divide' is executed True
+An error has occurred, on line 63,error type is invalid syntax (<string>, line 1)
+An error has occurred, on line 79,error type is invalid syntax (<string>, line 1)
+Calculation 2.2 + 1.1 * 3.7 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+The code block 'and_minus'       is executed True
+This calculation 2.4.270000 has been completed successfully
+An error has occurred, on line 220,error type is invalid syntax (<string>, line 1)
+Calculation 5.3 - 2.2 / 1.1 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+An error has occurred, on line 63,error type is invalid syntax (<string>, line 1)
+An error has occurred, on line 79,error type is invalid syntax (<string>, line 1)
+Calculation 3.6 * 1.2^2 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+The code block 'and_minus'       is executed True
+This calculation 5.184000 has been completed successfully
+Calculation 4.8 / 0.6^2 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+The code block 'and_minus'       is executed True
+This calculation 13.333333 has been completed successfully
+Calculation 2.1^3 + 1.2^2 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'multiply_divide' is executed True
+The code block 'and_minus'       is executed True
+This calculation 9.1.701000 has been completed successfully
+An error has occurred, on line 220,error type is invalid syntax (<string>, line 1)
+Calculation 6.4 - 2.8 * 0.6 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+An error has occurred, on line 63,error type is invalid syntax (<string>, line 1)
+An error has occurred, on line 79,error type is invalid syntax (<string>, line 1)
+Calculation 9.5 / 1.9 - 4.2 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+An error has occurred, on line 63,error type is invalid syntax (<string>, line 1)
+An error has occurred, on line 79,error type is invalid syntax (<string>, line 1)
+Calculation 2.4^2 * 1.5 + 3.1 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+The code block 'and_minus'       is executed True
+This calculation 8.3.740000 has been completed successfully
+An error has occurred, on line 220,error type is invalid syntax (<string>, line 1)
+Calculation 4.7 - 1.4 / 0.7 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+An error has occurred, on line 63,error type is invalid syntax (<string>, line 1)
+An error has occurred, on line 79,error type is invalid syntax (<string>, line 1)
+Calculation 3.3 * 2.1^2 - 1.2 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+An error has occurred, on line 63,error type is invalid syntax (<string>, line 1)
+An error has occurred, on line 79,error type is invalid syntax (<string>, line 1)
+Calculation 6.2 / 0.9^2 + 2.4 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+The code block 'and_minus'       is executed True
+This calculation 7.3.054321 has been completed successfully
+An error has occurred, on line 220,error type is invalid syntax (<string>, line 1)
+Calculation 2.6^3 - 0.8^2 * 1.4 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+An error has occurred, on line 63,error type is invalid syntax (<string>, line 1)
+An error has occurred, on line 79,error type is invalid syntax (<string>, line 1)
+Calculation 4.9 + 1.3 / 0.3 - 2.2 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+An error has occurred, on line 63,error type is invalid syntax (<string>, line 1)
+An error has occurred, on line 79,error type is invalid syntax (<string>, line 1)
+Calculation 3.7 * 2.2 - 1.8^2 + 0.5 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+An error has occurred, on line 63,error type is invalid syntax (<string>, line 1)
+An error has occurred, on line 79,error type is invalid syntax (<string>, line 1)
+Calculation 5.8 / 1.5 + 2.3 * 0.9 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+The code block 'and_minus'       is executed True
+This calculation 3.2.936667 has been completed successfully
+An error has occurred, on line 220,error type is invalid syntax (<string>, line 1)
+Calculation 2.9^2 + 1.1 * 3.8 - 2.2 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+An error has occurred, on line 63,error type is invalid syntax (<string>, line 1)
+An error has occurred, on line 79,error type is invalid syntax (<string>, line 1)
+Calculation 4.2 - 0.9 / 0.3 + 1.1^2 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+An error has occurred, on line 63,error type is invalid syntax (<string>, line 1)
+An error has occurred, on line 79,error type is invalid syntax (<string>, line 1)
+Calculation 3.5 * 2.3^2 - 1.6 / 0.8 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+An error has occurred, on line 63,error type is invalid syntax (<string>, line 1)
+An error has occurred, on line 79,error type is invalid syntax (<string>, line 1)
+Calculation 5.6 / 1.2^2 + 2.7 * 0.9 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+The code block 'and_minus'       is executed True
+This calculation 3.3.318889 has been completed successfully
+An error has occurred, on line 220,error type is invalid syntax (<string>, line 1)
+Calculation 2.3^3 - 0.7^2 * 2.1 + 1.4 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+An error has occurred, on line 63,error type is invalid syntax (<string>, line 1)
+An error has occurred, on line 79,error type is invalid syntax (<string>, line 1)
+Calculation 4.5 + 1.2 / 0.4 - 2.3^2 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+An error has occurred, on line 63,error type is invalid syntax (<string>, line 1)
+An error has occurred, on line 79,error type is invalid syntax (<string>, line 1)
+Calculation 3.4 * 2.4 - 1.9^3213123123 + 0.6^2 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+An error has occurred, on line 150,error type is (34, 'Result too large')
+An error has occurred, on line 169,error type is (34, 'Result too large')
+Calculation 5.7 / 1.6 + 2.2 * 1.1^2 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+The code block 'and_minus'       is executed True
+This calculation 3.3.224500 has been completed successfully
+An error has occurred, on line 220,error type is invalid syntax (<string>, line 1)
+Calculation 2.1^3 - 0.9^2 / 2.2 + 1.3 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+An error has occurred, on line 63,error type is invalid syntax (<string>, line 1)
+An error has occurred, on line 79,error type is invalid syntax (<string>, line 1)
+Calculation 4.3 - 1.1 / 0.2^2 + 1.2^2 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+An error has occurred, on line 63,error type is invalid syntax (<string>, line 1)
+An error has occurred, on line 79,error type is invalid syntax (<string>, line 1)
+Calculation 3.2 * 2.5^2 - 1.7 / 0.9^2 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+An error has occurred, on line 63,error type is invalid syntax (<string>, line 1)
+An error has occurred, on line 79,error type is invalid syntax (<string>, line 1)
+Calculation 5.9 / 1.4^2 + 2.1 * 1.2 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+The code block 'and_minus'       is executed True
+This calculation 3.2.530204 has been completed successfully
+An error has occurred, on line 220,error type is invalid syntax (<string>, line 1)
+Calculation 2.8^3 - 1.2^2 * 2.3 + 0.9 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+An error has occurred, on line 63,error type is invalid syntax (<string>, line 1)
+An error has occurred, on line 79,error type is invalid syntax (<string>, line 1)
+Calculation 4.7 + 1.4 / 0.5 - 2.1^2 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+An error has occurred, on line 63,error type is invalid syntax (<string>, line 1)
+An error has occurred, on line 79,error type is invalid syntax (<string>, line 1)
+Calculation 3.6 * 2.1 - 1.5^2 + 0.8^2 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+An error has occurred, on line 63,error type is invalid syntax (<string>, line 1)
+An error has occurred, on line 79,error type is invalid syntax (<string>, line 1)
+Calculation 6.2 / 1.1 + 2.4 * 0.7^2 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+The code block 'and_minus'       is executed True
+This calculation 5.1.812364 has been completed successfully
+An error has occurred, on line 220,error type is invalid syntax (<string>, line 1)
+Calculation 2.7^3 - 1.1^2 / 2.3 + 1.6 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+The code block 'and_minus'       is executed True
+This calculation 19.0.1.756913 has been completed successfully
+An error has occurred, on line 220,error type is invalid syntax (<string>, line 1)
+Calculation 4.9 - 1.3 / 0.4 + 1.9^2 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+An error has occurred, on line 63,error type is invalid syntax (<string>, line 1)
+An error has occurred, on line 79,error type is invalid syntax (<string>, line 1)
+Calculation 3.8 * 2.2^2 - 1.7 / 0.6^2 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+An error has occurred, on line 63,error type is invalid syntax (<string>, line 1)
+An error has occurred, on line 79,error type is invalid syntax (<string>, line 1)
+Calculation 5.6 / 1.3 + 2.3 * 1.2^2 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+The code block 'and_minus'       is executed True
+This calculation 4.3.619692 has been completed successfully
+An error has occurred, on line 220,error type is invalid syntax (<string>, line 1)
+Calculation 2.2^3 - 1.2^2 * 2.2 + 0.7 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+An error has occurred, on line 63,error type is invalid syntax (<string>, line 1)
+An error has occurred, on line 79,error type is invalid syntax (<string>, line 1)
+Calculation 4.4 + 1.1 / 0.3^2 - 2.2^2 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+An error has occurred, on line 63,error type is invalid syntax (<string>, line 1)
+An error has occurred, on line 79,error type is invalid syntax (<string>, line 1)
+Calculation 3.3 * 2.3 - 1.6^2 + 0.7^2 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+An error has occurred, on line 63,error type is invalid syntax (<string>, line 1)
+An error has occurred, on line 79,error type is invalid syntax (<string>, line 1)
+Calculation 5.8 / 1.7 + 2.1 * 1.1^2 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+The code block 'and_minus'       is executed True
+This calculation 3.2.952765 has been completed successfully
+An error has occurred, on line 220,error type is invalid syntax (<string>, line 1)
+Calculation 2.5^3 - 1.1^2 / 2.4 + 1.5 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'filter_minus'    is executed True
+The code block 'filter_minus'    is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+The code block 'and_minus'       is executed True
+This calculation 15.0.1.620833 has been completed successfully
+An error has occurred, on line 220,error type is invalid syntax (<string>, line 1)
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+The code block 'parenthesis'     is executed True
+Calculation 8/0.5 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'square'          is executed True
+The code block 'multiply_divide' is executed False
+An error has occurred, on line 103
+The code block 'and_minus'       is executed False
+An error has occurred, on line 37
+This calculation None has been completed
+This calculation None has been completed
+An error has occurred, on line 207
+Calculation 0.5*0.5 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+The code block 'and_minus'       is executed True
+This calculation 0.250000 has been completed successfully
+Calculation 20*5 has begun
+The code block 'filter_minus'    is executed True
+The code block 'parenthesis'     is executed True
+The code block 'square'          is executed True
+The code block 'filter_minus'    is executed True
+The code block 'multiply_divide' is executed True
+The code block 'and_minus'       is executed True
+This calculation 100.000000 has been completed successfully
